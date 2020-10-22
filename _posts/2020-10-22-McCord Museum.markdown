@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "McCord Museum Canada"
-date:   2020-10-21 11:57:52 +0100
+date:   2020-10-22 11:57:52 +0100
 categories: jekyll update
 ---
 <html>

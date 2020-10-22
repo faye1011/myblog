@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google Arts & Culture"
-date:   2020-10-21 11:57:52 +0100
+date:   2020-10-15 11:57:52 +0100
 categories: jekyll update
 ---
 <html>
