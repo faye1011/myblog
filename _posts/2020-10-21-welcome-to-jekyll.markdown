@@ -1,29 +1,69 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "British Museum"
 date:   2020-10-21 11:57:52 +0100
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<html>
+    <head>
+        
+        
+        <title> Week 1: British Museum </title>
+    </head>
 
-Jekyll requires blog post files to be named according to the following format:
+    <nav>
+        <div class="navbar">
+            <ul>
+                <li class="nav"> <a href="index.html">  Home </a> </li>
+                <li class="nav"> <a href="about.html"> About</a> </li>
+                <li class="nav"> <a href="wk1-bm.html"> British Museum</a> </li>
+                <li class="nav"> <a href="wk2-ga&c.html"> Google Arts & Culture </a></li>
+                <li class="nav"> <a href="wk3-mmc.html"> McCord Museum</a></li>
+            
+            </ul>
+        </div>
+        </nav>
 
-`YEAR-MONTH-DAY-title.MARKUP`
+    <body>
+        
+        <!-- Add your blog post BELOW here -->
+        <h1>The British Museum</h1>
+    <h3>Introduction </h3>
+<p>The British Museum, which was founded in 1753 and opened in 1759, was the first national museum to cover all fields of human knowledge that was open to visitors from all around the world.
+It harbours information and materials from different cultures and their histories.</p>
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<h3> Africa</h3>
+<p>The British Museum has plenty of online collections available to view from: the Americas, Animals, China, Egypt and many more, each with a virtual tour using Google Street viewer. 
+The collection I explored in most depth was Africa, according to <em>Wikipedia</em>, the Sainsbury African Galleries display 600 objects from the biggest permanent collection of African arts and culture in the world.
+ A large amount of the material was donated by Sir Henry Wellcome in 1954. This archive displays collections of materials and visual culture relating to indigenous people across Africa. </p>
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<p>Within the Africa collection, the categories of materials they hold are as followed; 
+ <ul>  
+<li> forged-metalwork</li>
+<li>textiles </li>
+<li>pottery-making</li>
+<li> masquerade</li> 
+<li>sculpture</li>
+ </ul> 
+Clearly this archive is made for everyone wanting to explore the depths of African culture and arts, and will enlighten anyone with the history of different African cultures.
+The collection consists of a variety of materials from Bronze-castings that come from Nigeria, to pottery all the way from Mali.</p>
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<p>A particular object that stood out for me was the Man’s wrap-around garment made of silk. 
+I was able to find out more information about this garment by clicking the <em>‘i’ </em>icon which gave me more information. 
+The garment is composed of 24 narrow strips joined at the selvedges by hand-sewn overcast stitch. 
+It is a <strong>beautiful, colourful </strong> piece of silk material that was made in Ghana in the late 19th Century- early 20th Century. 
+The piece was donated to the Museum by Antony Griffiths. Although there’s plenty of information and pictures, it’s hard to capture the real beauty of these objects through online alone. 
+I can tell that all the objects in this gallery are magnificent and carry much meaning however I’m sure in person it would provide a much more emotional response / feeling. </p>
+
+<p>Africa was a great collection to explore and I think majority of the collection was donated by individuals. 
+Overall, I enjoyed my time exploring the British Museum and their website has enough information and pictures to give you a deeper understanding of the collection you are viewing.</p>
+
+
+
+
+        <!-- Add your blog post ABOVE here -->
+
+    </body>
+</html>
