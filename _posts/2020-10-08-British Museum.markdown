@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
         
-# Week 1: 
+# Week 1
     
 ### Introduction
 
