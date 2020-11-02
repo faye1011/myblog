@@ -1,0 +1,9 @@
+---
+layout: page
+title: Archives
+--- 
+
+{% for archive in site.archives %}
+<h2>{{ archive.name }} </h2> <a href ="{{ archive.url }}"> click here </a> <p>({{ archive.country }})</p>
+
+{% endfor %}
