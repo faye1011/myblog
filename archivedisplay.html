@@ -4,6 +4,15 @@ title: Archives
 --- 
 
 {% for archive in site.archives %}
-<h2>{{ archive.name }} </h2> <a href ="{{ archive.url }}"> click here </a> <p>({{ archive.country }})</p>
+
+
+
+<h2>{{ archive.name }} </h2> <p>{{ archive.country }}</p>
+
+<a href ="{{archive.website_url}}"> click here to visit their website! </a> 
+
+
+<p> <a href="{{archive.my_review_url}}"> click here to see my review!</a></p>
+{{ archive.google_map_loca }}
 
 {% endfor %}
